@@ -6,7 +6,7 @@ Retrieval-Augmented Generation (RAG) is a powerful method that combines retrieva
 This document provides a detailed explanation of the RAG loop, including its components, workflow, and practical implementation, with a focus on the provided code example.
 
 ---
-
+ 
 ## **What is RAG?**
 RAG is a hybrid approach where a language model (LLM) generates responses based on retrieved external documents rather than relying solely on its pre-trained data. This is achieved by splitting the workflow into two primary stages:
 
